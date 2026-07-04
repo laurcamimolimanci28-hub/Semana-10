@@ -1,0 +1,7 @@
+Backlog de historias de usuario - Solución comunitaria o de veeduría
+
+1. Como coordinador quiero recibir alertas inmediatas de nuevos reportes para priorizar la atención oportuna.
+2. Como ciudadano quiero registrar una incidencia con evidencia para dejar constancia de un caso.
+3. Como miembro de la comunidad quiero consultar reportes anteriores para hacer seguimiento de situaciones recurrentes.
+4. Como voluntario de veeduría quiero actualizar el estado de un reporte para mantener informada a la comunidad.
+5. Como administrador quiero categorizar incidentes para organizar mejor la gestión y análisis de los casos.
